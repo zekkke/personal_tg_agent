@@ -1,0 +1,26 @@
+{
+  "api_key": "ac-4f4fa254327da59ab1e59c4b47992",
+  "sites": [],
+  "news_sources": {
+    "it_news": [
+      "https://ain.ua/",
+      "https://dev.ua/"
+    ],
+    "ai_news": [
+      "https://www.techradar.com/pro/news",
+      "https://www.tomsguide.com/ai"
+    ],
+    "kyiv_news": [
+      "https://kyivcity.gov.ua/news/",
+      "https://www.44.ua/news"
+    ],
+    "ukraine_news": [
+      "https://www.pravda.com.ua/news/",
+      "https://nv.ua/ukr/ukraine.html"
+    ],
+    "world_news": [
+      "https://www.bbc.com/news/world",
+      "https://www.reuters.com/world/"
+    ]
+  }
+} 
