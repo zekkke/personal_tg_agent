@@ -1,5 +1,4 @@
 {
-  "api_key": "ac-4f4fa254327da59ab1e59c4b47992",
   "sites": [],
   "news_sources": {
     "it_news": [
@@ -23,4 +22,5 @@
       "https://www.reuters.com/world/"
     ]
   }
+
 } 
